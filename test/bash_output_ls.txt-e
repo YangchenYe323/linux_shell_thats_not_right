@@ -1,0 +1,39 @@
+1.txt
+2
+2.c
+master.sh
+my_shell.c
+n1
+n2
+n3
+n4
+partb_test1.txt
+pwd.txt
+script-a.sh
+script-b.sh
+script-cd.sh
+sleep
+sleep.c
+sshell
+test.sh
+-rw-r--r--  1 yangchen  staff     19 Feb  9 18:15 1.txt
+-rwxr-xr-x  1 yangchen  staff  12556 Feb 10 11:26 2
+-rw-r--r--  1 yangchen  staff     78 Feb 10 11:26 2.c
+-rw-r--r--  1 yangchen  staff    204 Feb 10 16:59 bash_output_ls.txt
+-rwxrwxrwx  1 yangchen  staff     14 Feb 10 16:59 bash_test_part_a.txt
+-rwxr-xr-x@ 1 yangchen  staff    129 Jan  6 15:16 master.sh
+-rwxr-xr-x@ 1 yangchen  staff   8360 Feb 10 16:54 my_shell.c
+-rwxr-xr-x  1 yangchen  staff   4248 Feb 10 11:14 n1
+-rwxr-xr-x  1 yangchen  staff   4248 Feb 10 11:14 n2
+-rwxr-xr-x  1 yangchen  staff   4248 Feb 10 11:15 n3
+-rwxr-xr-x  1 yangchen  staff   4248 Feb 10 11:15 n4
+-rw-r--r--  1 yangchen  staff      0 Feb 10 16:59 part_a_student_output_ls.txt
+-rw-r--r--  1 yangchen  staff     24 Feb  9 19:21 partb_test1.txt
+-rw-r--r--@ 1 yangchen  staff     18 Feb  9 18:13 pwd.txt
+-rwxr-xr-x@ 1 yangchen  staff   4754 Feb  9 12:43 script-a.sh
+-rwxr-xr-x@ 1 yangchen  staff   4013 Feb  9 15:56 script-b.sh
+-rwxr-xr-x@ 1 yangchen  staff   5561 Feb 10 11:45 script-cd.sh
+-rwxr-xr-x  1 yangchen  staff  12556 Feb 10 16:55 sleep
+-rw-r--r--  1 yangchen  staff     62 Feb 10 16:55 sleep.c
+-rwxr-xr-x  1 yangchen  staff  18324 Feb 10 16:59 sshell
+-rw-r--r--  1 yangchen  staff      0 Feb  9 17:42 test.sh
